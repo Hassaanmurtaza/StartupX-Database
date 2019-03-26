@@ -1,0 +1,7 @@
+Address - Requirement
+User Profile
+Better Search Function?
+Admin Panel
+Startup Owner Panel
+Comments and Reviews
+Pagination
